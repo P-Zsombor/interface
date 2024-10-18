@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace @interface
 {
-    class user
+    public class user
     {
         public static List<user> users = new List<user>();
         public string username { get; set; }
